@@ -1,6 +1,13 @@
 body{
+background-color: lightblue;
+text-align: center;
+font-family: verdana;
+    font-size: 20px;  
 
-
-
+text-color: white;
+  
+p.oblique {
+    font-style: oblique;
+}
 
 }
